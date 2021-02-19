@@ -17,9 +17,7 @@ and CSS has been updated:
 
 #### What They Would Like:
 
-<p align="center"><br>
-  <img src="https://curriculum-content.s3.amazonaws.com/fewds-css/hs-zhw-shoes-layout-complete.jpg">
-</p>
+![](https://curriculum-content.s3.amazonaws.com/fewds-css/hs-zhw-shoes-layout-complete.jpg)
 
 
 ## Instructions
